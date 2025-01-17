@@ -105,7 +105,7 @@ The Postman collection is available [https://app.getpostman.com/join-team?invite
 
 ## Demo Video
 
-A demo video showcasing the API functionality can be found [here](#).
+A demo video showcasing the API functionality can be found [https://www.youtube.com/watch?v=GmWBmkaF7zk](#).
 
 
 
